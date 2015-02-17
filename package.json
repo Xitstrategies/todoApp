@@ -1,0 +1,16 @@
+{
+  "name": "todoApp",
+  "description": "Basic todo app that shows my knowledge of the tools used.",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "grunt": "~0.4.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-jsbeautifier": "~0.1.9",
+    "grunt-shell": "~0.2.2",
+    "grunt-steal": "~0.2.1",
+    "ssh2": "^0.3.6",
+    "testee": "^0.1.8"
+  }
+}
